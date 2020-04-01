@@ -12,3 +12,4 @@ The project is based on Tensorflow Object Detection API: https://github.com/tens
 For installation refer to: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
 If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
+Adding
